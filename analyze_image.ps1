@@ -1,5 +1,5 @@
-$key="e9424b0f54904538adadd30eccbabbde"
-$endpoint="https://centralindia.api.cognitive.microsoft.com/"
+$key="YOUR_KEY"
+$endpoint="ENDPOINT"
 
 
 # Code to call Computer Vision service for image analysis
